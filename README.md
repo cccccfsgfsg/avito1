@@ -14,6 +14,7 @@
 1. Установите зависимости:
    ```bash
    pip install pytest requests
+   Запустите скрипт: test_ads_api
 
 
 ##  Файлы:
